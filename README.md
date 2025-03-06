@@ -1,4 +1,4 @@
-# NOSEY-
+# NOSEY
 Welcome to NOSEY!
 Due to the GitHub limitations, I'm not able to upload the file itself. You can have it with the Dropbox link: https://www.dropbox.com/s/8dfe8ygiprie6ft/NOSEY!_SF.zip?st=totkicbt&dl=0
 
