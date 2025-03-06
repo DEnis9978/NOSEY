@@ -15,4 +15,4 @@ I have learned valuable lessons following this tutorial, including:
 - World design: designed the world using premade assets from Unreal Engine Fab to make to world more dynamic, interesting, and enjoyable. Used animated trees grass using Foliage tool to have optimized design.
 - UI: design a UI system to show how many coins you have collected using blueprints, set font size, color, outline, and shadow to make it more visible.
 
-You can also download the .exe file for windows through my itch.io page: https://specialthing2.itch.io/nosey
+You can also download the .exe file for windows in my itch.io page: https://specialthing2.itch.io/nosey, also do not forget to read install instructions.
